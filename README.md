@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Quang Nguyễn  
 
-<!--
-**QuangLeader/QuangLeader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics & Telecommunications Student (Year 2)  
+🔭 Interested in Embedded Systems, IoT, and Telecommunications  
+🌱 Currently learning C, Python, and Signal Processing  
 
-Here are some ideas to get you started:
+## 💡 Projects  
+- **IoT Temp & Humidity Monitor** (Arduino, ESP8266) → [Repo](https://github.com/...)  
+- **Line Follower Robot** (Arduino, IR Sensor, L298N) → [Repo](https://github.com/...)  
+- **Smart Light Control** (Arduino + Relay) → [Repo](https://github.com/...)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills  
+C, Python, MATLAB, Proteus, Arduino IDE, Git, Linux Basics  
+
+## 📫 Contact  
+📧 quang.ngocquang359@g 👋 Hi, I'm Quang Nguyễn  
+
+🎓 Electronics & Telecommunications Student (Year 2)  
+🔭 Interested in Embedded Systems, IoT, and Telecommunications  
+🌱 Currently learning C, Python, and Signal Processing  
+
+## 💡 Projects  
+- **IoT Temp & Humidity Monitor** (Arduino, ESP8266) → [Repo](https://github.com/...)  
+- **Line Follower Robot** (Arduino, IR Sensor, L298N) → [Repo](https://github.com/...)  
+- **Smart Light Control** (Arduino + Relay) → [Repo](https://github.com/...)  
+
+## 🛠 Skills  
+C, Python, MATLAB, Proteus, Arduino IDE, Git, Linux Basics  
+
+## 📫 Contact  
+📧 quang.ngocquang359@gmail.com | 🔗 [LinkedIn]| 🖥 [Portfolio](https://quangleader.github.io)
