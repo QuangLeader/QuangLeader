@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Quang Nguyễn  
 
-🎓 **Electronics & Telecommunications Student (Year 2)**  
+🎓 **Electronics & Telecommunications Student (Year 3)**  
 📡 Interested in **Embedded Systems, IoT, and Telecommunications**  
 💻 Currently learning **C, Python, and Signal Processing**  
 
